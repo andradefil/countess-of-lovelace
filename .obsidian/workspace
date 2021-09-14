@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "c5375c49baed24f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "abde03fb93e83adb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c9f28d08c0d5a4be",
+    "type": "split",
+    "children": [
+      {
+        "id": "1bfea8f15d5b467e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e80bf5b6fabc6a8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5c022463a2938a4b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ad889ce636aa1c44",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd4710ad0c067e93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "459c9c942375c26a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "abde03fb93e83adb",
+  "lastOpenFiles": [
+    "README.md",
+    "ada-king-countess-of-lovelace-portrait.png",
+    "ada-king-countess-of-lovelace-portrait.jpeg",
+    "ada.jpeg"
+  ]
+}
